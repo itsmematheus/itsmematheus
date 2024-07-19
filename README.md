@@ -1,5 +1,5 @@
 # Hello There! 👋
-My name is Matheus and I'm studying to become a Software Developer.
+My name is Matheus and I'm currently studying Front-End Development.
 
 
 
